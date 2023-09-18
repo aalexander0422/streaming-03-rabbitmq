@@ -1,5 +1,5 @@
 """
-
+ASHLEE ALEXANDER 8/14
 Listens for messages on the queue.
 This process runs continuously. 
 

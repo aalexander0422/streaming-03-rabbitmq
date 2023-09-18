@@ -1,0 +1,8 @@
+2023-09-17 22:46:27,123.v2_emit_message.INFO ==================================================
+2023-09-17 22:46:27,123.v2_emit_message.INFO Today is 2023-09-17 at 10:46 PM
+2023-09-17 22:46:27,123.v2_emit_message.INFO Running on: posix Darwin 22.1.0
+2023-09-17 22:46:27,123.v2_emit_message.INFO Python version:  3.10.9
+2023-09-17 22:46:27,123.v2_emit_message.INFO Python path: /Users/ashleealexander/Documents/Untitled/.venv
+2023-09-17 22:46:27,123.v2_emit_message.INFO Working dir: /Users/ashleealexander/Documents/Untitled
+2023-09-17 22:46:27,124.v2_emit_message.INFO ==================================================
+2023-09-17 22:46:37,171.v2_emit_message.ERROR Error: Connection to RabbitMQ server failed: 

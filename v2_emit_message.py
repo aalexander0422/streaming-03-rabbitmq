@@ -1,5 +1,5 @@
 """
-
+ASHLEE ALEXANDER 8/14
 Message sender / emitter 
 
 Description:
